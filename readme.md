@@ -14,7 +14,7 @@ NPM"
 
 ## Installation
 
-1. Clone Project: git clone https://github.com/user/project-name.git
+1. Clone Project: git clone [https://github.com/user/project-name.git](https://github.com/gokhanertenn/Project)
 
 2. Navigate to the project folder: cd project-name
 
